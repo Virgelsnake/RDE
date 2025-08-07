@@ -1,9 +1,9 @@
 version: '3.8'
 
 services:
-  doctor:
+  template:
     build: ./backend
-    container_name: doctor
+    container_name: template_container
     ports:
       - "8080:8000"
     volumes:
