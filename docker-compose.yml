@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  doctor:
+    build: ./backend
+    container_name: doctor
+    ports:
+      - "8080:8000"
+    volumes:
+      - ./backend:/app
+    restart: unless-stopped
+
+volumes:
+  logs:

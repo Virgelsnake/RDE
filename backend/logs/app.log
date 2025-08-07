@@ -1,0 +1,276 @@
+2025-08-07 16:42:42,464 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:42:42,466 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:42:42,467 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0029s
+2025-08-07 16:42:44,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:42:44,799 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:42:44,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0037s
+2025-08-07 16:42:52,454 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:42:52,454 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:42:52,455 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0014s
+2025-08-07 16:42:54,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:42:54,801 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:42:54,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0025s
+2025-08-07 16:47:42,465 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:47:42,466 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:47:42,467 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:47:44,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:47:44,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:47:44,802 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0032s
+2025-08-07 16:47:52,459 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:47:52,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:47:52,461 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:47:54,800 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:47:54,802 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:47:54,803 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0029s
+2025-08-07 16:48:02,456 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:02,457 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:02,458 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0019s
+2025-08-07 16:48:04,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:04,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:04,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0030s
+2025-08-07 16:48:12,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:12,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:12,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0026s
+2025-08-07 16:48:14,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:14,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:14,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:48:22,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:22,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:22,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0025s
+2025-08-07 16:48:24,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:24,801 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:24,802 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:48:32,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:32,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:32,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:48:34,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:34,799 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:34,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0025s
+2025-08-07 16:48:42,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:42,458 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:42,459 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0018s
+2025-08-07 16:48:44,800 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:44,802 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:44,803 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0030s
+2025-08-07 16:48:52,456 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:52,457 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:52,458 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0024s
+2025-08-07 16:48:54,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:48:54,801 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:48:54,802 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:49:02,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:02,458 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:02,459 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0024s
+2025-08-07 16:49:04,794 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:04,796 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:04,796 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0019s
+2025-08-07 16:49:12,452 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:12,453 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:12,454 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0016s
+2025-08-07 16:49:14,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:14,799 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:14,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0031s
+2025-08-07 16:49:22,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:22,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:22,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:49:24,796 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:24,797 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:24,798 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0019s
+2025-08-07 16:49:32,458 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:32,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:32,462 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0033s
+2025-08-07 16:49:34,800 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:34,801 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:34,802 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0026s
+2025-08-07 16:49:42,454 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:42,455 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:42,455 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0017s
+2025-08-07 16:49:44,795 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:44,796 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:44,797 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0021s
+2025-08-07 16:49:52,453 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:52,453 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:52,454 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0014s
+2025-08-07 16:49:54,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:49:54,799 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:49:54,800 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0024s
+2025-08-07 16:50:02,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:02,458 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:02,459 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0022s
+2025-08-07 16:50:04,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:04,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:04,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0024s
+2025-08-07 16:50:12,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:12,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:12,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:50:14,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:14,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:14,800 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0018s
+2025-08-07 16:50:22,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:22,458 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:22,459 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0024s
+2025-08-07 16:50:24,797 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:24,798 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:24,799 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0022s
+2025-08-07 16:50:32,456 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:32,457 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:32,457 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0018s
+2025-08-07 16:50:34,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:34,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:34,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0023s
+2025-08-07 16:50:42,458 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:42,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:42,461 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0025s
+2025-08-07 16:50:44,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:44,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:44,802 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0033s
+2025-08-07 16:50:52,458 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:52,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:52,461 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0028s
+2025-08-07 16:50:54,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:50:54,801 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:50:54,802 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0029s
+2025-08-07 16:51:02,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:02,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:02,459 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0023s
+2025-08-07 16:51:04,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:04,799 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:04,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0026s
+2025-08-07 16:51:12,458 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:12,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:12,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:51:14,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:14,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:14,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0024s
+2025-08-07 16:51:22,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:22,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:22,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0026s
+2025-08-07 16:51:24,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:24,798 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:24,799 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0013s
+2025-08-07 16:51:32,459 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:32,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:32,461 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0028s
+2025-08-07 16:51:34,797 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:34,798 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:34,799 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0021s
+2025-08-07 16:51:42,456 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:42,457 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:42,457 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0017s
+2025-08-07 16:51:44,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:44,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:44,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:51:52,459 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:52,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:52,461 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0025s
+2025-08-07 16:51:54,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:51:54,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:51:54,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0024s
+2025-08-07 16:52:02,458 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:02,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:02,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0023s
+2025-08-07 16:52:04,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:04,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:04,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0026s
+2025-08-07 16:52:12,458 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:12,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:12,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:52:14,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:14,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:14,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0024s
+2025-08-07 16:52:22,459 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:22,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:22,462 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0029s
+2025-08-07 16:52:24,794 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:24,796 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:24,797 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0021s
+2025-08-07 16:52:32,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:32,458 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:32,459 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0025s
+2025-08-07 16:52:34,800 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:34,803 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:34,804 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0039s
+2025-08-07 16:52:42,460 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:42,462 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:42,463 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0033s
+2025-08-07 16:52:44,796 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:44,797 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:44,798 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0021s
+2025-08-07 16:52:52,454 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:52,455 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:52,456 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0020s
+2025-08-07 16:52:54,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:52:54,801 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:52:54,803 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0036s
+2025-08-07 16:53:02,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:02,458 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:02,459 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0021s
+2025-08-07 16:53:04,795 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:04,796 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:04,797 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0013s
+2025-08-07 16:53:12,456 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:12,457 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:12,459 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0024s
+2025-08-07 16:53:14,796 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:14,797 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:14,798 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0017s
+2025-08-07 16:53:22,458 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:22,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:22,461 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0033s
+2025-08-07 16:53:24,797 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:24,799 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:24,800 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0032s
+2025-08-07 16:53:32,459 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:32,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:32,461 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0023s
+2025-08-07 16:53:34,797 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:34,797 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:34,798 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0017s
+2025-08-07 16:53:42,456 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:42,457 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:42,458 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0022s
+2025-08-07 16:53:44,800 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:44,802 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:44,803 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0031s
+2025-08-07 16:53:52,455 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:52,456 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:52,457 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0022s
+2025-08-07 16:53:54,797 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:53:54,798 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:53:54,800 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0026s
+2025-08-07 16:54:02,459 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:02,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:02,462 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:54:04,800 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:04,801 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:04,802 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:54:12,459 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:12,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:12,461 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0019s
+2025-08-07 16:54:14,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:14,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:14,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0029s
+2025-08-07 16:54:22,458 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:22,460 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:22,461 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0028s
+2025-08-07 16:54:24,797 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:24,798 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:24,798 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0018s
+2025-08-07 16:54:32,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:32,457 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:32,458 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0011s
+2025-08-07 16:54:34,802 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:34,804 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:34,805 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0026s
+2025-08-07 16:54:42,457 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:42,459 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:42,460 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0027s
+2025-08-07 16:54:44,798 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:44,799 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:44,800 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0021s
+2025-08-07 16:54:52,453 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:52,454 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:52,455 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0017s
+2025-08-07 16:54:54,799 - doctor_api - INFO - Request started: GET /health
+2025-08-07 16:54:54,800 - doctor_api - INFO - Health check endpoint called
+2025-08-07 16:54:54,801 - doctor_api - INFO - Request completed: GET /health - Status: 200 - Time: 0.0023s
